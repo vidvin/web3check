@@ -1,0 +1,11 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="PHP">
+        <added pattern="\mysqli.query(query,resultmode)" />
+        <removed pattern="" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
