@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/Comments/Replace With C-Style Comment" />
+  </component>
+</application>
