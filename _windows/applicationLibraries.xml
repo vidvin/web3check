@@ -1,0 +1,16 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/jquery" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="Jquery" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <option name="frameworkVersion" value="1.11.0" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
